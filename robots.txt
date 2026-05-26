@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Disallow analytics/utility paths if any are added later
+# Disallow: /admin/
+# Disallow: /api/
+
+Sitemap: https://rlvntedit.com/sitemap.xml
